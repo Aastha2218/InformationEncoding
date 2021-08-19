@@ -1,0 +1,59 @@
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/bin/Debug/netcoreapp3.1/Api.exe
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/bin/Debug/netcoreapp3.1/Api.deps.json
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.json
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.dev.json
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/bin/Debug/netcoreapp3.1/Api.dll
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/bin/Debug/netcoreapp3.1/Api.pdb
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/Api.csproj.AssemblyReference.cache
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfoInputs.cache
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfo.cs
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/Api.csproj.CoreCompileInputs.cache
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/staticwebassets/Api.StaticWebAssets.Manifest.cache
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/staticwebassets/Api.StaticWebAssets.xml
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/scopedcss/bundle/Api.styles.css
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/Api.RazorTargetAssemblyInfo.cache
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/Api.dll
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/Api.pdb
+C:/Users/shrey/OneDrive/Desktop/Encoding-Application/Api/obj/Debug/netcoreapp3.1/Api.genruntimeconfig.cache
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/bin/Debug/netcoreapp3.1/Api.deps.json
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.json
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/bin/Debug/netcoreapp3.1/Api.runtimeconfig.dev.json
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/bin/Debug/netcoreapp3.1/Api.dll
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/bin/Debug/netcoreapp3.1/Api.pdb
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/Api.csprojAssemblyReference.cache
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfoInputs.cache
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/Api.AssemblyInfo.cs
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/Api.csproj.CoreCompileInputs.cache
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/staticwebassets/Api.StaticWebAssets.Manifest.cache
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/staticwebassets/Api.StaticWebAssets.xml
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/scopedcss/bundle/Api.styles.css
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/Api.RazorTargetAssemblyInfo.cache
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/Api.dll
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/Api.pdb
+/Users/sarthak/Downloads/FinalProject-IES-main/Api/obj/Debug/netcoreapp3.1/Api.genruntimeconfig.cache
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Users\aasth\Downloads\FinalProject-IES-main 2\FinalProject-IES-main\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
